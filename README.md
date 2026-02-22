@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Figma,Node js
-- 👯 I’m looking to collaborate on ITprojects
+- 🔭 I’m currently working on Outside marketplace clint hunting & Web Development 
+- 🌱 I’m currently learning Figma, Node.js
+- 👯 I’m looking to collaborate on IT projects
 - 🤔 I’m looking for help with IT JOBS
 - 💬 Ask me about your any inquery for free help,lets grow together.
-- 📫 How to reach me: rabbihasanawmi10@gmail.com,WHATSAPP: https://wa.me/8801581763661
+- 📫 How to reach me: rabbihasanawmi10@gmail.com, WHATSAPP: https://wa.me/8801581763661 , TELEGRAM: https://t.me/awmi10
 - 😄 Pronouns: HASAN
-- ⚡ Fun fact: I KOVE GAMING AND CODING
+- ⚡ Fun fact: I lOVE GAMING AND CODING
 # 💫 About Me:
 Highly motivated and enthusiastic professional with a strong willingness to learn and grow in the tech environment
 ## 🌐 Socials:
